@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-
+GitHub 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
@@ -104,4 +104,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+t* [GitHub community forum](https://github.community/)
